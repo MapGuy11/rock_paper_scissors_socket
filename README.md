@@ -8,7 +8,7 @@ Just a basic rock, paper, scissor game.
 ## Installation
 
 1. Run `pip install -r requirements.txt`
-2. run py, python, or python3 `Client.py`
+2. run py, python, or python3 `client.py`
 
 ## Group Statement
 ### Developed By:
